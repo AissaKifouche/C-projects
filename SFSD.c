@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 
-//insertion, suppression, recherche, fragmentation, fusion
+
 
 
 #define b 20
